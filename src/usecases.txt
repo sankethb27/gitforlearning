@@ -1,0 +1,2 @@
+#testers
+1. execute smoke tests on premise and cloud deployments
