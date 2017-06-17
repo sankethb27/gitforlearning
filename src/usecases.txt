@@ -1,6 +1,8 @@
 
 #testers
 1. execute smoke tests on premise and cloud deployments
+2. execute selenium automated tests
+3. add them to CI.
 #devops
 1. build code from jenkins
 2. deploy the cide to tomcat server
