@@ -5,4 +5,4 @@
 1. build code from jenkins
 2. deploy the cide to tomcat server
 3. use any config mgmt tool for acheiving this.
-
+4. create a docker file also for this app
