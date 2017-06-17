@@ -1,2 +1,8 @@
+
 #testers
 1. execute smoke tests on premise and cloud deployments
+#devops
+1. build code from jenkins
+2. deploy the cide to tomcat server
+3. use any config mgmt tool for acheiving this.
+
